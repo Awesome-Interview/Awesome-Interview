@@ -224,7 +224,17 @@ How to pass the Node.js interview of ElemeFE.
 
 ---
 
+#### es6tutorial
 
+[ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)
+
+《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+
+[阅读地址](http://es6.ruanyifeng.com/)
+
+⭐ **Star** 15437 🍴 **Fork** 6876
+
+---
 
 
 
