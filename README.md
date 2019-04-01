@@ -22,6 +22,7 @@
   * [Java](#Java)
   * [C++](#C)
 * [面试经验](#面试经验)
+* [书籍资源](#书籍资源)
 * [如何贡献](#如何贡献)
 
 
@@ -70,16 +71,6 @@
 
 ---
 
-#### CS-Books
-
-[huihut/CS-Books](https://github.com/huihut/CS-Books)
-
-📚 Computer Science Books 计算机技术类书籍 PDF
-
-⭐ **Star** 126 🍴 **Fork** 36
-
----
-
 #### tech-interview-handbook
 
 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -122,6 +113,16 @@ Build the best interview map. The current content includes JS, network, browser 
 
 ---
 
+#### notes
+
+[8483/notes](https://github.com/8483/notes)
+
+Full-stack web development notes.
+
+⭐ **Star** 601 🍴 **Fork** 77
+
+---
+
 
 
 ## 后端
@@ -156,7 +157,25 @@ Build the best interview map. The current content includes JS, network, browser 
 
 ---
 
+#### spring-boot-examples
 
+[ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+
+About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/
+
+⭐ **Star** 12705 🍴 **Fork** 5558
+
+---
+
+#### advanced-java
+
+[doocs/advanced-java](https://github.com/doocs/advanced-java)
+
+😮 互联网 Java 工程师进阶知识完全扫盲
+
+⭐ **Star** 14013 🍴 **Fork** 2949
+
+---
 
 
 
@@ -233,6 +252,16 @@ How to pass the Node.js interview of ElemeFE.
 [阅读地址](http://es6.ruanyifeng.com/)
 
 ⭐ **Star** 15437 🍴 **Fork** 6876
+
+---
+
+#### vue-analysis
+
+👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/
+
+[ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
+
+⭐ **Star** 2892 🍴 **Fork** 480
 
 ---
 
@@ -415,6 +444,28 @@ A complete computer science study plan to become a software engineer.
 ---
 
 
+
+## 书籍资源
+
+#### CS-Books
+
+[huihut/CS-Books](https://github.com/huihut/CS-Books)
+
+📚 Computer Science Books 计算机技术类书籍 PDF
+
+⭐ **Star** 126 🍴 **Fork** 36
+
+---
+
+#### free-programming-books
+
+[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/
+
+⭐ **Star** 120472 🍴 **Fork** 30068
+
+---
 
 
 
