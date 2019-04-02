@@ -21,6 +21,7 @@
   * [Python](#Python)
   * [Java](#Java)
   * [C++](#C)
+* [算法题目](#算法题目)
 * [面试经验](#面试经验)
 * [书籍资源](#书籍资源)
 * [如何贡献](#如何贡献)
@@ -35,7 +36,7 @@
 
 😋 技术面试必备基础知识
 
-⭐ **Star** 54610 🍴 **Fork** 16804
+⭐ **Star** 54610 	🍴 **Fork** 16804
 
 ---
 
@@ -47,7 +48,7 @@
 
 [在线阅读](<https://hit-alibaba.github.io/interview/index.html>)
 
-⭐ **Star** 3227 🍴 **Fork** 681
+⭐ **Star** 3227 	🍴 **Fork** 681
 
 ---
 
@@ -57,7 +58,7 @@
 
 剑指Offer——名企面试官精讲典型编程题
 
-⭐ **Star** 1989 🍴 **Fork** 552
+⭐ **Star** 1989 	🍴 **Fork** 552
 
 ---
 
@@ -67,7 +68,7 @@
 
 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
-⭐ **Star** 16550 🍴 **Fork** 6374
+⭐ **Star** 16550 	🍴 **Fork** 6374
 
 ---
 
@@ -77,7 +78,7 @@
 
 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview （英文）
 
-⭐ **Star** 26567 🍴 **Fork** 3532
+⭐ **Star** 26567 	🍴 **Fork** 3532
 
 ---
 
@@ -87,7 +88,7 @@
 
 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 （英文）
 
-⭐ **Star** 26787 🍴 **Fork** 3351
+⭐ **Star** 26787 	🍴 **Fork** 3351
 
 ---
 
@@ -99,7 +100,7 @@ Build the best interview map. The current content includes JS, network, browser 
 
 这是一份能让你更好准备下一次面试的图谱
 
-⭐ **Star** 15150 🍴 **Fork** 2217
+⭐ **Star** 15150 	🍴 **Fork** 2217
 
 ---
 
@@ -109,7 +110,7 @@ Build the best interview map. The current content includes JS, network, browser 
 
 结构化算法刷题训练指南 (希望大家支持一下！) 
 
-⭐ **Star** 9585 🍴 **Fork** 1835
+⭐ **Star** 9585 	🍴 **Fork** 1835
 
 ---
 
@@ -119,7 +120,7 @@ Build the best interview map. The current content includes JS, network, browser 
 
 Full-stack web development notes.
 
-⭐ **Star** 601 🍴 **Fork** 77
+⭐ **Star** 601 	🍴 **Fork** 77
 
 ---
 
@@ -133,7 +134,7 @@ Full-stack web development notes.
 
 后端架构师技术图谱
 
-⭐ **Star** 30387 🍴 **Fork** 9037
+⭐ **Star** 30387 	🍴 **Fork** 9037
 
 ---
 
@@ -143,7 +144,7 @@ Full-stack web development notes.
 
 💯后端面试进阶指南
 
-⭐ **Star** 325 🍴 **Fork** 97
+⭐ **Star** 325 	🍴 **Fork** 97
 
 ---
 
@@ -153,7 +154,7 @@ Full-stack web development notes.
 
 🔥2018互联网求职面试知识复习
 
-⭐ **Star** 1596 🍴 **Fork** 644
+⭐ **Star** 1596 	🍴 **Fork** 644
 
 ---
 
@@ -163,7 +164,7 @@ Full-stack web development notes.
 
 About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/
 
-⭐ **Star** 12705 🍴 **Fork** 5558
+⭐ **Star** 12705 	🍴 **Fork** 5558
 
 ---
 
@@ -173,7 +174,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 😮 互联网 Java 工程师进阶知识完全扫盲
 
-⭐ **Star** 14013 🍴 **Fork** 2949
+⭐ **Star** 14013 	🍴 **Fork** 2949
 
 ---
 
@@ -187,7 +188,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 收集的前端面试题和答案
 
-⭐ **Star** 4419 🍴 **Fork** 1331
+⭐ **Star** 4419 	🍴 **Fork** 1331
 
 ---
 
@@ -197,7 +198,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 :octocat: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
 
-⭐ **Star** 5089 🍴 **Fork** 1329
+⭐ **Star** 5089 	🍴 **Fork** 1329
 
 ---
 
@@ -207,7 +208,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘
 
-⭐ **Star** 2810 🍴 **Fork** 704
+⭐ **Star** 2810 	🍴 **Fork** 704
 
 ---
 
@@ -219,7 +220,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 [中文版本](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
-⭐ **Star** 18628 🍴 **Fork** 2281
+⭐ **Star** 18628 	🍴 **Fork** 2281
 
 ---
 
@@ -229,7 +230,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 How to pass the Node.js interview of ElemeFE. 
 
-⭐ **Star** 8065 🍴 **Fork** 1327
+⭐ **Star** 8065 	🍴 **Fork** 1327
 
 ---
 
@@ -239,7 +240,7 @@ How to pass the Node.js interview of ElemeFE.
 
 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
-⭐ **Star** 4360 🍴 **Fork** 357
+⭐ **Star** 4360 	🍴 **Fork** 357
 
 ---
 
@@ -251,7 +252,7 @@ How to pass the Node.js interview of ElemeFE.
 
 [阅读地址](http://es6.ruanyifeng.com/)
 
-⭐ **Star** 15437 🍴 **Fork** 6876
+⭐ **Star** 15437 	🍴 **Fork** 6876
 
 ---
 
@@ -261,7 +262,7 @@ How to pass the Node.js interview of ElemeFE.
 
 👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/
 
-⭐ **Star** 2892 🍴 **Fork** 480
+⭐ **Star** 2892 	🍴 **Fork** 480
 
 ---
 
@@ -275,7 +276,7 @@ How to pass the Node.js interview of ElemeFE.
 
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
-⭐ **Star** 4419 🍴 **Fork** 1331
+⭐ **Star** 4419 	🍴 **Fork** 1331
 
 ---
 
@@ -285,7 +286,7 @@ How to pass the Node.js interview of ElemeFE.
 
 Deep Learning Interview 深度学习面试题目汇总
 
-⭐ **Star** 743 🍴 **Fork** 151
+⭐ **Star** 743 	🍴 **Fork** 151
 
 ---
 
@@ -295,7 +296,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。
 
-⭐ **Star** 21805 🍴 **Fork** 5982
+⭐ **Star** 21805 	🍴 **Fork** 5982
 
 ---
 
@@ -311,7 +312,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 Java / Android 笔试、面试 知识整理
 
-⭐ **Star** 2136 🍴 **Fork** 700
+⭐ **Star** 2136 	🍴 **Fork** 700
 
 ---
 
@@ -321,7 +322,7 @@ Java / Android 笔试、面试 知识整理
 
 整理的常见的问题
 
-⭐ **Star** 752 🍴 **Fork** 166
+⭐ **Star** 752 	🍴 **Fork** 166
 
 ---
 
@@ -331,7 +332,7 @@ Java / Android 笔试、面试 知识整理
 
 [gitbook地址](https://lrh1993.gitbooks.io/android_interview_guide/content/)
 
-⭐ **Star** 1977 🍴 **Fork** 591
+⭐ **Star** 1977	🍴 **Fork** 591
 
 ---
 
@@ -341,7 +342,7 @@ Java / Android 笔试、面试 知识整理
 
 Your Cheat Sheet For Android Interview - Android Interview Questions （英文）
 
-⭐ **Star** 4858 🍴 **Fork** 947
+⭐ **Star** 4858	🍴 **Fork** 947
 
 ---
 
@@ -355,7 +356,7 @@ Your Cheat Sheet For Android Interview - Android Interview Questions （英文�
 
 iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
 
-⭐ **Star** 1857 🍴 **Fork** 334
+⭐ **Star** 1857	🍴 **Fork** 334
 
 ---
 
@@ -373,7 +374,7 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 关于python的面试题
 
-⭐ **Star** 2340 🍴 **Fork** 658
+⭐ **Star** 2340	🍴 **Fork** 658
 
 ---
 
@@ -383,7 +384,7 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 关于Python的面试题
 
-⭐ **Star** 9303 🍴 **Fork** 3888
+⭐ **Star** 9303	🍴 **Fork** 3888
 
 ---
 
@@ -397,7 +398,7 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
-⭐ **Star** 31410 🍴 **Fork** 9782
+⭐ **Star** 31410	🍴 **Fork** 9782
 
 ---
 
@@ -411,11 +412,84 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 📚 C/C++面试基础知识总结
 
-⭐ **Star** 3974 🍴 **Fork** 1204
+⭐ **Star** 3974	🍴 **Fork** 1204
 
 ---
 
 
+
+## 算法题目
+
+#### leetcode
+
+[haoel/leetcode](https://github.com/haoel/leetcode)
+
+LeetCode Problems' Solutions （**C++**）
+
+⭐ **Star** 9280	🍴 **Fork** 3104
+
+---
+
+#### LeetCodeAnimation
+
+[MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+⭐ **Star** 15800	🍴 **Fork** 1885
+
+---
+
+#### awesome-java-leetcode
+
+[Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+
+👑 LeetCode of algorithms with **java** solution(updating).
+
+⭐ **Star** 5600	🍴 **Fork** 1054
+
+---
+
+#### leetcode
+
+[hanzichi/leetcode](https://github.com/hanzichi/leetcode)
+
+✏️ LeetCode solutions with **JavaScript**
+
+⭐ **Star** 1255	🍴 **Fork** 268
+
+---
+
+#### LeetCode-Swift
+
+[soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)
+
+Solutions to LeetCode by **Swift**
+
+⭐ **Star** 2412	🍴 **Fork** 347
+
+---
+
+#### leetcode
+
+[HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode)
+
+✏️ 算法相关知识储备 LeetCode with **Python** 📚
+
+⭐ **Star** 876	🍴 **Fork** 171
+  
+
+---
+
+#### LintCode
+
+[kamyu104/LintCode](https://github.com/kamyu104/LintCode)
+
+✏️ C++ 11 Solutions of All 289 LintCode Problems
+
+⭐ **Star** 468	🍴 **Fork** 205
+
+---
 
 
 
@@ -429,7 +503,7 @@ A complete computer science study plan to become a software engineer.
 
 [简体中文](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
-⭐ **Star** 75706 🍴 **Fork** 22148
+⭐ **Star** 75706 	🍴 **Fork** 22148
 
 ---
 
@@ -439,7 +513,7 @@ A complete computer science study plan to become a software engineer.
 
 写在19年初的后端社招面试经历🤑
 
-⭐ **Star** 1816 🍴 **Fork** 161
+⭐ **Star** 1816 	🍴 **Fork** 161
 
 ---
 
@@ -453,7 +527,7 @@ A complete computer science study plan to become a software engineer.
 
 📚 Computer Science Books 计算机技术类书籍 PDF
 
-⭐ **Star** 126 🍴 **Fork** 36
+⭐ **Star** 126 	🍴 **Fork** 36
 
 ---
 
@@ -463,7 +537,7 @@ A complete computer science study plan to become a software engineer.
 
 📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/
 
-⭐ **Star** 120472 🍴 **Fork** 30068
+⭐ **Star** 120472 	🍴 **Fork** 30068
 
 ---
 
