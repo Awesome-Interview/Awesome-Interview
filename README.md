@@ -257,9 +257,9 @@ How to pass the Node.js interview of ElemeFE.
 
 #### vue-analysis
 
-👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/
-
 [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
+
+👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/
 
 ⭐ **Star** 2892 🍴 **Fork** 480
 
