@@ -178,6 +178,15 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 ---
 
+#### ZXBlog
+
+[ZXZxin/ZXBlog](https://github.com/ZXZxin/ZXBlog)
+
+记录各种学习笔记(算法、Java、数据库、并发......)
+
+⭐ **Star** 438 	🍴 **Fork** 68
+
+---
 
 
 ## 前端
@@ -300,6 +309,15 @@ Deep Learning Interview 深度学习面试题目汇总
 
 ---
 
+#### pumpkin-book
+
+[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+⭐ **Star** 264 	🍴 **Fork** 65
+
+---
 
 
 ## 客户端
