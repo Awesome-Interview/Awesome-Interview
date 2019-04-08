@@ -11,6 +11,9 @@
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
+![GitHub stars](https://img.shields.io/github/stars/Awesome-Interview/Awesome-Interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Awesome-Interview/Awesome-Interview.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Interview/Awesome-Interview.svg)
 
 ## 目录
 
