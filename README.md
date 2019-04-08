@@ -7,6 +7,7 @@
         Collection of awesome interview reference
     </p>
 </div>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ## 目录
 
@@ -413,7 +414,6 @@ All Algorithms implemented in Python
 
 ⭐ **Star** 24255	🍴 **Fork** 6780
 
-
 ---
 
 ### Java
@@ -503,7 +503,6 @@ Solutions to LeetCode by **Swift**
 ✏️ 算法相关知识储备 LeetCode with **Python** 📚
 
 ⭐ **Star** 876	🍴 **Fork** 171
-  
 
 ---
 
