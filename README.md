@@ -131,6 +131,26 @@ Full-stack web development notes.
 
 ---
 
+#### note
+
+[arkingc/note](https://github.com/arkingc/note)
+
+学习笔记整理📚
+
+⭐ **Star** 611 	🍴 **Fork** 246
+
+---
+
+#### Skill-Tree
+
+[linw7/Skill-Tree](https://github.com/linw7/Skill-Tree)
+
+🐼 准备秋招，欢迎来树上取果实 
+
+⭐ **Star** 1818 	🍴 **Fork** 636
+
+---
+
 
 
 ## 后端
