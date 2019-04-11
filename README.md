@@ -39,11 +39,12 @@
 
 #### CS-Notes
 
-[CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
+[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 😋 技术面试必备基础知识
 
-⭐ **Star** 54610 	🍴 **Fork** 16804
+![GitHub stars](https://img.shields.io/github/stars/CyC2018/CS-Notes.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/CyC2018/CS-Notes.svg)
 
 ---
 
@@ -55,27 +56,8 @@
 
 [在线阅读](<https://hit-alibaba.github.io/interview/index.html>)
 
-⭐ **Star** 3227 	🍴 **Fork** 681
-
----
-
-#### CodingInterviews
-
-[gatieme/CodingInterviews](https://github.com/gatieme/CodingInterviews)
-
-剑指Offer——名企面试官精讲典型编程题
-
-⭐ **Star** 1989 	🍴 **Fork** 552
-
----
-
-#### The-Art-Of-Programming-By-July
-
-[julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
-
-本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
-
-⭐ **Star** 16550 	🍴 **Fork** 6374
+![GitHub stars](https://img.shields.io/github/stars/HIT-Alibaba/interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/HIT-Alibaba/interview.svg)
 
 ---
 
@@ -85,7 +67,8 @@
 
 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview （英文）
 
-⭐ **Star** 26567 	🍴 **Fork** 3532
+![GitHub stars](https://img.shields.io/github/stars/yangshun/tech-interview-handbook.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/yangshun/tech-interview-handbook.svg)
 
 ---
 
@@ -95,7 +78,8 @@
 
 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 （英文）
 
-⭐ **Star** 26787 	🍴 **Fork** 3351
+![GitHub stars](https://img.shields.io/github/stars/MaximAbramchuck/awesome-interview-questions.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/MaximAbramchuck/awesome-interview-questions.svg)
 
 ---
 
@@ -107,17 +91,8 @@ Build the best interview map. The current content includes JS, network, browser 
 
 这是一份能让你更好准备下一次面试的图谱
 
-⭐ **Star** 15150 	🍴 **Fork** 2217
-
----
-
-#### awesome-algorithm
-
-[apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
-
-结构化算法刷题训练指南 (希望大家支持一下！) 
-
-⭐ **Star** 9585 	🍴 **Fork** 1835
+![GitHub stars](https://img.shields.io/github/stars/InterviewMap/CS-Interview-Knowledge-Map.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/InterviewMap/CS-Interview-Knowledge-Map.svg)
 
 ---
 
@@ -127,7 +102,8 @@ Build the best interview map. The current content includes JS, network, browser 
 
 Full-stack web development notes.
 
-⭐ **Star** 601 	🍴 **Fork** 77
+![GitHub stars](https://img.shields.io/github/stars/8483/notes.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/8483/notes.svg)
 
 ---
 
@@ -137,7 +113,8 @@ Full-stack web development notes.
 
 学习笔记整理📚
 
-⭐ **Star** 611 	🍴 **Fork** 246
+![GitHub stars](https://img.shields.io/github/stars/arkingc/note.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/arkingc/note.svg)
 
 ---
 
@@ -147,7 +124,8 @@ Full-stack web development notes.
 
 🐼 准备秋招，欢迎来树上取果实 
 
-⭐ **Star** 1818 	🍴 **Fork** 636
+![GitHub stars](https://img.shields.io/github/stars/linw7/Skill-Tree.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/linw7/Skill-Tree.svg)
 
 ---
 
@@ -161,7 +139,8 @@ Full-stack web development notes.
 
 后端架构师技术图谱
 
-⭐ **Star** 30387 	🍴 **Fork** 9037
+![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg)
 
 ---
 
@@ -171,7 +150,8 @@ Full-stack web development notes.
 
 💯后端面试进阶指南
 
-⭐ **Star** 325 	🍴 **Fork** 97
+![GitHub stars](https://img.shields.io/github/stars/CyC2018/Backend-Interview-Guide.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/CyC2018/Backend-Interview-Guide.svg)
 
 ---
 
@@ -181,7 +161,8 @@ Full-stack web development notes.
 
 🔥2018互联网求职面试知识复习
 
-⭐ **Star** 1596 	🍴 **Fork** 644
+![GitHub stars](https://img.shields.io/github/stars/it-interview/EasyJob.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/it-interview/EasyJob.svg)
 
 ---
 
@@ -191,7 +172,8 @@ Full-stack web development notes.
 
 About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/
 
-⭐ **Star** 12705 	🍴 **Fork** 5558
+![GitHub stars](https://img.shields.io/github/stars/ityouknow/spring-boot-examples.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ityouknow/spring-boot-examples.svg)
 
 ---
 
@@ -201,7 +183,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 😮 互联网 Java 工程师进阶知识完全扫盲
 
-⭐ **Star** 14013 	🍴 **Fork** 2949
+![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/doocs/advanced-java.svg)
 
 ---
 
@@ -211,7 +194,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 记录各种学习笔记(算法、Java、数据库、并发......)
 
-⭐ **Star** 438 	🍴 **Fork** 68
+![GitHub stars](https://img.shields.io/github/stars/ZXZxin/ZXBlog.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ZXZxin/ZXBlog.svg)
 
 ---
 
@@ -224,7 +208,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 收集的前端面试题和答案
 
-⭐ **Star** 4419 	🍴 **Fork** 1331
+![GitHub stars](https://img.shields.io/github/stars/qiu-deqing/FE-interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/qiu-deqing/FE-interview.svg)
 
 ---
 
@@ -234,7 +219,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 :octocat: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
 
-⭐ **Star** 5089 	🍴 **Fork** 1329
+![GitHub stars](https://img.shields.io/github/stars/helloqingfeng/Awsome-Front-End-learning-resource.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/helloqingfeng/Awsome-Front-End-learning-resource.svg)
 
 ---
 
@@ -244,7 +230,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘
 
-⭐ **Star** 2810 	🍴 **Fork** 704
+![GitHub stars](https://img.shields.io/github/stars/paddingme/Front-end-Web-Development-Interview-Question.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/paddingme/Front-end-Web-Development-Interview-Question.svg)
 
 ---
 
@@ -256,7 +243,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 [中文版本](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
-⭐ **Star** 18628 	🍴 **Fork** 2281
+![GitHub stars](https://img.shields.io/github/stars/yangshun/front-end-interview-handbook.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/yangshun/front-end-interview-handbook.svg)
 
 ---
 
@@ -266,7 +254,8 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 How to pass the Node.js interview of ElemeFE. 
 
-⭐ **Star** 8065 	🍴 **Fork** 1327
+![GitHub stars](https://img.shields.io/github/stars/ElemeFE/node-interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ElemeFE/node-interview.svg)
 
 ---
 
@@ -276,7 +265,8 @@ How to pass the Node.js interview of ElemeFE.
 
 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
-⭐ **Star** 4360 	🍴 **Fork** 357
+![GitHub stars](https://img.shields.io/github/stars/Advanced-Frontend/Daily-Interview-Question.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Advanced-Frontend/Daily-Interview-Question.svg)
 
 ---
 
@@ -288,7 +278,8 @@ How to pass the Node.js interview of ElemeFE.
 
 [阅读地址](http://es6.ruanyifeng.com/)
 
-⭐ **Star** 15437 	🍴 **Fork** 6876
+![GitHub stars](https://img.shields.io/github/stars/ruanyf/es6tutorial.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ruanyf/es6tutorial.svg)
 
 ---
 
@@ -298,7 +289,8 @@ How to pass the Node.js interview of ElemeFE.
 
 👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/
 
-⭐ **Star** 2892 	🍴 **Fork** 480
+![GitHub stars](https://img.shields.io/github/stars/ustbhuangyi/vue-analysis.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ustbhuangyi/vue-analysis.svg)
 
 ---
 
@@ -312,7 +304,8 @@ How to pass the Node.js interview of ElemeFE.
 
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
-⭐ **Star** 4419 	🍴 **Fork** 1331
+![GitHub stars](https://img.shields.io/github/stars/imhuay/Algorithm_Interview_Notes-Chinese.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/imhuay/Algorithm_Interview_Notes-Chinese.svg)
 
 ---
 
@@ -322,7 +315,8 @@ How to pass the Node.js interview of ElemeFE.
 
 Deep Learning Interview 深度学习面试题目汇总
 
-⭐ **Star** 743 	🍴 **Fork** 151
+![GitHub stars](https://img.shields.io/github/stars/ShanghaiTechAIClub/DLInterview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ShanghaiTechAIClub/DLInterview.svg)
 
 ---
 
@@ -332,7 +326,8 @@ Deep Learning Interview 深度学习面试题目汇总
 
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。
 
-⭐ **Star** 21805 	🍴 **Fork** 5982
+![GitHub stars](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/scutan90/DeepLearning-500-questions.svg)
 
 ---
 
@@ -342,9 +337,22 @@ Deep Learning Interview 深度学习面试题目汇总
 
 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 
-⭐ **Star** 264 	🍴 **Fork** 65
+![GitHub stars](https://img.shields.io/github/stars/datawhalechina/pumpkin-book.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/datawhalechina/pumpkin-book.svg)
 
 ---
+
+#### DeepLearningBookQA_cn
+
+[elviswf/DeepLearningBookQA_cn](https://github.com/elviswf/DeepLearningBookQA_cn)
+
+深度学习面试问题 回答对应的DeepLearning中文版页码
+
+![GitHub stars](https://img.shields.io/github/stars/elviswf/DeepLearningBookQA_cn.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/elviswf/DeepLearningBookQA_cn.svg)
+
+---
+
 
 
 ## 客户端
@@ -357,7 +365,8 @@ Deep Learning Interview 深度学习面试题目汇总
 
 Java / Android 笔试、面试 知识整理
 
-⭐ **Star** 2136 	🍴 **Fork** 700
+![GitHub stars](https://img.shields.io/github/stars/hadyang/interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/hadyang/interview.svg)
 
 ---
 
@@ -367,7 +376,8 @@ Java / Android 笔试、面试 知识整理
 
 整理的常见的问题
 
-⭐ **Star** 752 	🍴 **Fork** 166
+![GitHub stars](https://img.shields.io/github/stars/leerduo/InterviewQuestion.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/leerduo/InterviewQuestion.svg)
 
 ---
 
@@ -377,7 +387,8 @@ Java / Android 笔试、面试 知识整理
 
 [gitbook地址](https://lrh1993.gitbooks.io/android_interview_guide/content/)
 
-⭐ **Star** 1977	🍴 **Fork** 591
+![GitHub stars](https://img.shields.io/github/stars/LRH1993/android_interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/LRH1993/android_interview.svg)
 
 ---
 
@@ -387,7 +398,8 @@ Java / Android 笔试、面试 知识整理
 
 Your Cheat Sheet For Android Interview - Android Interview Questions （英文）
 
-⭐ **Star** 4858	🍴 **Fork** 947
+![GitHub stars](https://img.shields.io/github/stars/MindorksOpenSource/android-interview-questions.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/MindorksOpenSource/android-interview-questions.svg)
 
 ---
 
@@ -401,7 +413,8 @@ Your Cheat Sheet For Android Interview - Android Interview Questions （英文�
 
 iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
 
-⭐ **Star** 1857	🍴 **Fork** 334
+![GitHub stars](https://img.shields.io/github/stars/liberalisman/iOS-InterviewQuestion-collection.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/liberalisman/iOS-InterviewQuestion-collection.svg)
 
 ---
 
@@ -419,7 +432,8 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 关于python的面试题
 
-⭐ **Star** 2340	🍴 **Fork** 658
+![GitHub stars](https://img.shields.io/github/stars/kenwoodjw/python_interview_question.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/kenwoodjw/python_interview_question.svg)
 
 ---
 
@@ -429,7 +443,8 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 关于Python的面试题
 
-⭐ **Star** 9303	🍴 **Fork** 3888
+![GitHub stars](https://img.shields.io/github/stars/taizilongxu/interview_python.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/taizilongxu/interview_python.svg)
 
 ---
 
@@ -438,7 +453,8 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 All Algorithms implemented in Python  
 
-⭐ **Star** 24255	🍴 **Fork** 6780
+![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Python.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/TheAlgorithms/Python.svg)
 
 ---
 
@@ -450,7 +466,8 @@ All Algorithms implemented in Python
 
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
-⭐ **Star** 31410	🍴 **Fork** 9782
+![GitHub stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Snailclimb/JavaGuide.svg)
 
 ---
 
@@ -464,7 +481,8 @@ All Algorithms implemented in Python
 
 📚 C/C++面试基础知识总结
 
-⭐ **Star** 3974	🍴 **Fork** 1204
+![GitHub stars](https://img.shields.io/github/stars/huihut/interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/huihut/interview.svg)
 
 ---
 
@@ -472,13 +490,37 @@ All Algorithms implemented in Python
 
 ## 算法题目
 
+
+#### CodingInterviews
+
+[gatieme/CodingInterviews](https://github.com/gatieme/CodingInterviews)
+
+剑指Offer——名企面试官精讲典型编程题
+
+![GitHub stars](https://img.shields.io/github/stars/gatieme/CodingInterviews.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/gatieme/CodingInterviews.svg)
+
+---
+
+#### The-Art-Of-Programming-By-July
+
+[julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+
+本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
+![GitHub stars](https://img.shields.io/github/stars/julycoding/The-Art-Of-Programming-By-July.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/julycoding/The-Art-Of-Programming-By-July.svg)
+
+---
+
 #### leetcode
 
 [haoel/leetcode](https://github.com/haoel/leetcode)
 
 LeetCode Problems' Solutions （**C++**）
 
-⭐ **Star** 9280	🍴 **Fork** 3104
+![GitHub stars](https://img.shields.io/github/stars/haoel/leetcode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/haoel/leetcode.svg)
 
 ---
 
@@ -488,7 +530,8 @@ LeetCode Problems' Solutions （**C++**）
 
 Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
-⭐ **Star** 15800	🍴 **Fork** 1885
+![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/MisterBooo/LeetCodeAnimation.svg)
 
 ---
 
@@ -498,7 +541,8 @@ Demonstrate all the questions on LeetCode in the form of animation.（用动画�
 
 👑 LeetCode of algorithms with **java** solution(updating).
 
-⭐ **Star** 5600	🍴 **Fork** 1054
+![GitHub stars](https://img.shields.io/github/stars/Blankj/awesome-java-leetcode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Blankj/awesome-java-leetcode.svg)
 
 ---
 
@@ -508,7 +552,8 @@ Demonstrate all the questions on LeetCode in the form of animation.（用动画�
 
 ✏️ LeetCode solutions with **JavaScript**
 
-⭐ **Star** 1255	🍴 **Fork** 268
+![GitHub stars](https://img.shields.io/github/stars/hanzichi/leetcode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/hanzichi/leetcode.svg)
 
 ---
 
@@ -518,7 +563,8 @@ Demonstrate all the questions on LeetCode in the form of animation.（用动画�
 
 Solutions to LeetCode by **Swift**
 
-⭐ **Star** 2412	🍴 **Fork** 347
+![GitHub stars](https://img.shields.io/github/stars/soapyigu/LeetCode-Swift.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/soapyigu/LeetCode-Swift.svg)
 
 ---
 
@@ -528,7 +574,8 @@ Solutions to LeetCode by **Swift**
 
 ✏️ 算法相关知识储备 LeetCode with **Python** 📚
 
-⭐ **Star** 876	🍴 **Fork** 171
+![GitHub stars](https://img.shields.io/github/stars/HuberTRoy/leetCode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/HuberTRoy/leetCode.svg)
 
 ---
 
@@ -538,10 +585,32 @@ Solutions to LeetCode by **Swift**
 
 ✏️ C++ 11 Solutions of All 289 LintCode Problems
 
-⭐ **Star** 468	🍴 **Fork** 205
+![GitHub stars](https://img.shields.io/github/stars/kamyu104/LintCode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/kamyu104/LintCode.svg)
 
 ---
 
+#### Interview-code-practice-python
+
+[leeguandong/Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)
+
+面试题
+
+![GitHub stars](https://img.shields.io/github/stars/leeguandong/Interview-code-practice-python.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/leeguandong/Interview-code-practice-python.svg)
+
+---
+
+#### awesome-algorithm
+
+[apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
+
+结构化算法刷题训练指南 (希望大家支持一下！) 
+
+![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/apachecn/awesome-algorithm.svg)
+
+---
 
 
 ## 面试经验
@@ -554,7 +623,8 @@ A complete computer science study plan to become a software engineer.
 
 [简体中文](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
-⭐ **Star** 75706 	🍴 **Fork** 22148
+![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/jwasham/coding-interview-university.svg)
 
 ---
 
@@ -564,7 +634,8 @@ A complete computer science study plan to become a software engineer.
 
 写在19年初的后端社招面试经历🤑
 
-⭐ **Star** 1816 	🍴 **Fork** 161
+![GitHub stars](https://img.shields.io/github/stars/aylei/interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/aylei/interview.svg)
 
 ---
 
@@ -578,7 +649,8 @@ A complete computer science study plan to become a software engineer.
 
 📚 Computer Science Books 计算机技术类书籍 PDF
 
-⭐ **Star** 126 	🍴 **Fork** 36
+![GitHub stars](https://img.shields.io/github/stars/huihut/CS-Books.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/huihut/CS-Books.svg)
 
 ---
 
@@ -588,10 +660,21 @@ A complete computer science study plan to become a software engineer.
 
 📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/
 
-⭐ **Star** 120472 	🍴 **Fork** 30068
+![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg)
 
 ---
 
+#### deeplearningbook-chinese
+
+[exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
+
+Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningbook-chinese
+
+![GitHub stars](https://img.shields.io/github/stars/exacity/deeplearningbook-chinese.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/exacity/deeplearningbook-chinese.svg)
+
+---
 
 
 ## 如何贡献
@@ -600,6 +683,6 @@ A complete computer science study plan to become a software engineer.
 
 也欢迎通过提出[New Issue](https://github.com/Awesome-Interview/Awesome-Interview/issues/new)的方式推荐优秀的面试资料/面试经验等等。
 
-
+[Contributors](https://opencollective.com/awesome-interview/contributors.svg)
 
 2019，我们一起加油！
