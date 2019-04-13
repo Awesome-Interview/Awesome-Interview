@@ -29,6 +29,8 @@
   * [Java](#Java)
   * [C++](#C)
 * [算法题目](#算法题目)
+  * [LeetCode](#LeetCode)
+  * [Google KickStart](#Google-KickStart)
 * [面试经验](#面试经验)
 * [书籍资源](#书籍资源)
 * [如何贡献](#如何贡献)
@@ -513,6 +515,30 @@ All Algorithms implemented in Python
 
 ---
 
+#### Interview-code-practice-python
+
+[leeguandong/Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)
+
+面试题
+
+![GitHub stars](https://img.shields.io/github/stars/leeguandong/Interview-code-practice-python.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/leeguandong/Interview-code-practice-python.svg)
+
+---
+
+#### awesome-algorithm
+
+[apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
+
+结构化算法刷题训练指南 (希望大家支持一下！) 
+
+![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/apachecn/awesome-algorithm.svg)
+
+---
+
+### LeetCode
+
 #### leetcode
 
 [haoel/leetcode](https://github.com/haoel/leetcode)
@@ -579,6 +605,8 @@ Solutions to LeetCode by **Swift**
 
 ---
 
+### LintCode
+
 #### LintCode
 
 [kamyu104/LintCode](https://github.com/kamyu104/LintCode)
@@ -590,27 +618,30 @@ Solutions to LeetCode by **Swift**
 
 ---
 
-#### Interview-code-practice-python
+### Google KickStart
 
-[leeguandong/Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)
+#### KickStart-GoogleCompetition
 
-面试题
+[amylmy/KickStart-GoogleCompetition](https://github.com/amylmy/KickStart-GoogleCompetition)
 
-![GitHub stars](https://img.shields.io/github/stars/leeguandong/Interview-code-practice-python.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/leeguandong/Interview-code-practice-python.svg)
+My Java implementation of Kick Start - Google's Coding Competitions. (not finished)
+
+![GitHub stars](https://img.shields.io/github/stars/amylmy/KickStart-GoogleCompetition.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/amylmy/KickStart-GoogleCompetition.svg)
+
+---
+
+#### Google-Kick-Start
+
+[Harmon758/Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start)
+
+Google Kick Start https://g.co/kickstart
+
+![GitHub stars](https://img.shields.io/github/stars/Harmon758/Google-Kick-Start.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Harmon758/Google-Kick-Start.svg)
 
 ---
 
-#### awesome-algorithm
-
-[apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
-
-结构化算法刷题训练指南 (希望大家支持一下！) 
-
-![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/apachecn/awesome-algorithm.svg)
-
----
 
 
 ## 面试经验
@@ -683,6 +714,6 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 也欢迎通过提出[New Issue](https://github.com/Awesome-Interview/Awesome-Interview/issues/new)的方式推荐优秀的面试资料/面试经验等等。
 
-[Contributors](https://opencollective.com/awesome-interview/contributors.svg)
+![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)
 
 2019，我们一起加油！
