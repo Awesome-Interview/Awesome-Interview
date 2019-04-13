@@ -32,6 +32,7 @@
   * [LeetCode](#LeetCode)
   * [LintCode](#LintCode)
   * [Google KickStart](#Google-KickStart)
+* [简历制作](#简历制作)  
 * [面试经验](#面试经验)
 * [书籍资源](#书籍资源)
 * [如何贡献](#如何贡献)
@@ -643,7 +644,18 @@ Google Kick Start https://g.co/kickstart
 
 ---
 
+## 简历制作
 
+#### ResumeSample
+
+[geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
+
+Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 http://get.jobdeer.com/744.get
+
+![GitHub stars](https://img.shields.io/github/stars/geekcompany/ResumeSample.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/geekcompany/ResumeSample.svg)
+
+---
 
 ## 面试经验
 
