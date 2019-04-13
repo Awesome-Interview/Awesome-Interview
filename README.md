@@ -719,4 +719,4 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 #### Contributors
 
-![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)
+[![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)](https://github.com/Awesome-Interview/Awesome-Interview/graphs/contributors)
