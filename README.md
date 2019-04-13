@@ -30,6 +30,7 @@
   * [C++](#C)
 * [算法题目](#算法题目)
   * [LeetCode](#LeetCode)
+  * [LintCode](#LintCode)
   * [Google KickStart](#Google-KickStart)
 * [面试经验](#面试经验)
 * [书籍资源](#书籍资源)
@@ -714,6 +715,8 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 也欢迎通过提出[New Issue](https://github.com/Awesome-Interview/Awesome-Interview/issues/new)的方式推荐优秀的面试资料/面试经验等等。
 
-![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)
-
 2019，我们一起加油！
+
+#### Contributors
+
+![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)
