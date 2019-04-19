@@ -37,7 +37,7 @@
 * [书籍资源](#书籍资源)
 * [如何贡献](#如何贡献)
 
-
+<br/>
 
 ## 通用
 
@@ -133,7 +133,7 @@ Full-stack web development notes.
 
 ---
 
-
+<br/>
 
 ## 后端
 
@@ -203,6 +203,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 ---
 
+<br/>
 
 ## 前端
 
@@ -298,7 +299,7 @@ How to pass the Node.js interview of ElemeFE.
 
 ---
 
-
+<br/>
 
 ## 算法
 
@@ -357,7 +358,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 ---
 
-
+<br/>
 
 ## 客户端
 
@@ -407,7 +408,7 @@ Your Cheat Sheet For Android Interview - Android Interview Questions （英文�
 
 ---
 
-
+<br/>
 
 ### iOS
 
@@ -422,9 +423,7 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 ---
 
-
-
-
+<br/>
 
 ## 语言
 
@@ -462,6 +461,8 @@ All Algorithms implemented in Python
 
 ---
 
+<br/>
+
 ### Java
 
 #### JavaGuide
@@ -475,7 +476,7 @@ All Algorithms implemented in Python
 
 ---
 
-
+<br/>
 
 ### C++
 
@@ -490,7 +491,7 @@ All Algorithms implemented in Python
 
 ---
 
-
+<br/>
 
 ## 算法题目
 
@@ -538,6 +539,8 @@ All Algorithms implemented in Python
 ![GitHub forks](https://img.shields.io/github/forks/apachecn/awesome-algorithm.svg)
 
 ---
+
+<br/>
 
 ### LeetCode
 
@@ -607,6 +610,8 @@ Solutions to LeetCode by **Swift**
 
 ---
 
+<br/>
+
 ### LintCode
 
 #### LintCode
@@ -619,6 +624,8 @@ Solutions to LeetCode by **Swift**
 ![GitHub forks](https://img.shields.io/github/forks/kamyu104/LintCode.svg)
 
 ---
+
+<br/>
 
 ### Google KickStart
 
@@ -644,6 +651,8 @@ Google Kick Start https://g.co/kickstart
 
 ---
 
+<br/>
+
 ## 简历制作
 
 #### ResumeSample
@@ -666,6 +675,8 @@ Resume template for Chinese programmers . 程序员简历模板系列。包括PH
 ![GitHub forks](https://img.shields.io/github/forks/salomonelli/best-resume-ever.svg)
 
 ---
+
+<br/>
 
 ## 面试经验
 
@@ -693,7 +704,7 @@ A complete computer science study plan to become a software engineer.
 
 ---
 
-
+<br/>
 
 ## 书籍资源
 
@@ -730,6 +741,7 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 ---
 
+<br/>
 
 ## 如何贡献
 
