@@ -7,7 +7,7 @@
         Collection of awesome interview reference
     </p>
     
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Backers on Open Collective](https://opencollective.com/Awesome-Interview/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/Awesome-Interview/sponsors/badge.svg)](#sponsors) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 ![GitHub stars](https://img.shields.io/github/stars/Awesome-Interview/Awesome-Interview.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Awesome-Interview/Awesome-Interview.svg)
@@ -754,3 +754,33 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 #### Contributors
 
 [![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)](https://github.com/Awesome-Interview/Awesome-Interview/graphs/contributors)
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/Awesome-Interview/Awesome-Interview/graphs/contributors"><img src="https://opencollective.com/Awesome-Interview/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Awesome-Interview#backer)]
+
+<a href="https://opencollective.com/Awesome-Interview#backers" target="_blank"><img src="https://opencollective.com/Awesome-Interview/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Awesome-Interview#sponsor)]
+
+<a href="https://opencollective.com/Awesome-Interview/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome-Interview/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Awesome-Interview/sponsor/9/avatar.svg"></a>
+
+
