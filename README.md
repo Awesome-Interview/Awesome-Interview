@@ -7,11 +7,11 @@
         Collection of awesome interview reference
     </p>
     
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
-![GitHub stars](https://img.shields.io/github/stars/Awesome-Interview/Awesome-Interview.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/Awesome-Interview/Awesome-Interview.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Interview/Awesome-Interview.svg)
+    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE" target="_blank"><img alt="LICENSE" src="https://img.shields.io/badge/license-Anti%20996-blue.svg" /></a>
+    <a href="https://996.icu/#/zh_CN" target="_blank"><img alt="Badge" src="https://img.shields.io/badge/link-996.icu-red.svg" /></a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Awesome-Interview/Awesome-Interview.svg?color=yellow" />
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Awesome-Interview/Awesome-Interview.svg" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Awesome-Interview/Awesome-Interview.svg" />
 
 </div>
 
