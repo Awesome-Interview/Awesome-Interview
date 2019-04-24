@@ -366,6 +366,19 @@ http://www.huaxiaozhuan.com/
 
 ---
 
+#### nndl.github.io
+
+[nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)
+
+《神经网络与深度学习》 Neural Network and Deep Learning
+
+https://nndl.github.io
+
+![GitHub stars](https://img.shields.io/github/stars/nndl/nndl.github.io.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/nndl/nndl.github.io.svg)
+
+---
+
 <br/>
 
 ## 客户端
