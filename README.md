@@ -703,6 +703,17 @@ Resume template for Chinese programmers . 程序员简历模板系列。包括PH
 
 ---
 
+#### resume
+
+[billryan/resume](https://github.com/billryan/resume)
+
+An elegant \LaTeX\ résumé template
+
+![GitHub stars](https://img.shields.io/github/stars/billryan/resume.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/billryan/resume.svg)
+
+---
+
 <br/>
 
 ## 面试经验
@@ -768,6 +779,15 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 ---
 
+#### technical-books
+
+[lemonhu/technical-books](https://github.com/lemonhu/technical-books)
+
+常用的技术书籍，内容主要涉及自然语言处理，机器学习，深度学习，算法，编程及数学等。
+
+![GitHub stars](https://img.shields.io/github/stars/lemonhu/technical-books.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/lemonhu/technical-books.svg)
+
 <br/>
 
 ## 如何贡献
@@ -781,3 +801,4 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 #### Contributors
 
 [![Contributors](https://opencollective.com/awesome-interview/contributors.svg?width=890&button=false)](https://github.com/Awesome-Interview/Awesome-Interview/graphs/contributors)
+
