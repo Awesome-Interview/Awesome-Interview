@@ -209,6 +209,15 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 ---
 
+#### interview_internal_reference 
+
+[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)
+
+2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/0voice/interview_internal_reference.svg)
+
 <br/>
 
 ## 前端
@@ -518,6 +527,15 @@ All Algorithms implemented in Python
 
 ---
 
+#### developkit_set
+
+[0voice/developkit_set](https://github.com/0voice/developkit_set)
+
+2019年最新总结，值得推荐的c/c++开源框架与库。持续更新中。
+
+![GitHub stars](https://img.shields.io/github/stars/0voice/developkit_set.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/0voice/developkit_set.svg)
+
 <br/>
 
 ## 算法题
@@ -776,17 +794,6 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 ![GitHub stars](https://img.shields.io/github/stars/exacity/deeplearningbook-chinese.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/exacity/deeplearningbook-chinese.svg)
-
----
-
-#### technical-books
-
-[lemonhu/technical-books](https://github.com/lemonhu/technical-books)
-
-常用的技术书籍，内容主要涉及自然语言处理，机器学习，深度学习，算法，编程及数学等。
-
-![GitHub stars](https://img.shields.io/github/stars/lemonhu/technical-books.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/lemonhu/technical-books.svg)
 
 <br/>
 
