@@ -394,6 +394,17 @@ https://nndl.github.io
 
 ---
 
+#### 2019_algorithm_intern_information
+
+[HarleysZhang/2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information)
+
+2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
+
+![GitHub stars](https://img.shields.io/github/stars/HarleysZhang/2019_algorithm_intern_information.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/HarleysZhang/2019_algorithm_intern_information.svg)
+
+---
+
 <br/>
 
 ## 客户端
