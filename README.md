@@ -635,12 +635,12 @@ Demonstrate all the questions on LeetCode in the form of animation.（用动画�
 
 #### leetcode
 
-[hanzichi/leetcode](https://github.com/hanzichi/leetcode)
+[lessfish/leetcode](https://github.com/lessfish/leetcode)
 
 ✏️ LeetCode solutions with **JavaScript**
 
-![GitHub stars](https://img.shields.io/github/stars/hanzichi/leetcode.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/hanzichi/leetcode.svg)
+![GitHub stars](https://img.shields.io/github/stars/lessfish/leetcode.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/lessfish/leetcode.svg)
 
 ---
 
@@ -822,12 +822,8 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 #### Backers
 
-Thanks for our backers:
-
 [![Backers](https://opencollective.com/awesome-interview/backers.svg?width=890&button=false)](https://opencollective.com/ali-mehrpour) 
 
 #### Sponsors
-
-Thanks for our sponsors:
 
 [![Sponsors](https://opencollective.com/awesome-interview/sponsors.svg?width=890&button=false)](https://opencollective.com/triplebyte)
