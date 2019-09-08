@@ -176,12 +176,12 @@ Awesome Interviews for Coder, Programming Language, Software Engineering, Web, B
 
 #### EasyJob
 
-[it-interview/EasyJob](https://github.com/it-interview/EasyJob)
+[Lemonjing/EasyJob](https://github.com/Lemonjing/EasyJob)
 
 🔥2018互联网求职面试知识复习
 
-![GitHub stars](https://img.shields.io/github/stars/it-interview/EasyJob.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/it-interview/EasyJob.svg)
+![GitHub stars](https://img.shields.io/github/stars/Lemonjing/EasyJob.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Lemonjing/EasyJob.svg)
 
 ---
 
