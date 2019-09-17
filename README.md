@@ -780,6 +780,17 @@ A complete computer science study plan to become a software engineer.
 
 ---
 
+#### reverse-interview-zh
+
+[reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+
+技术面试最后反问面试官的话
+
+![GitHub stars](https://img.shields.io/github/stars/yifeikong/reverse-interview-zh.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/yifeikong/reverse-interview-zh.svg)
+
+---
+
 <br/>
 
 ## 书籍资源
