@@ -360,14 +360,14 @@ Deep Learning Interview 深度学习面试题目汇总
 
 ---
 
-#### pumpkin-book
+#### ML-NLP
 
-[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+[NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
 
-《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 
-![GitHub stars](https://img.shields.io/github/stars/datawhalechina/pumpkin-book.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/datawhalechina/pumpkin-book.svg)
+![GitHub stars](https://img.shields.io/github/stars/NLP-LOVE/ML-NLP.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/NLP-LOVE/ML-NLP.svg)
 
 ---
 
@@ -379,6 +379,17 @@ Deep Learning Interview 深度学习面试题目汇总
 
 ![GitHub stars](https://img.shields.io/github/stars/elviswf/DeepLearningBookQA_cn.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/elviswf/DeepLearningBookQA_cn.svg)
+
+---
+
+#### 2019_algorithm_intern_information
+
+[HarleysZhang/2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information)
+
+2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
+
+![GitHub stars](https://img.shields.io/github/stars/HarleysZhang/2019_algorithm_intern_information.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/HarleysZhang/2019_algorithm_intern_information.svg)
 
 ---
 
@@ -403,14 +414,25 @@ https://nndl.github.io
 
 ---
 
-#### 2019_algorithm_intern_information
+#### pumpkin-book
 
-[HarleysZhang/2019_algorithm_intern_information](https://github.com/HarleysZhang/2019_algorithm_intern_information)
+[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 
-2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 
-![GitHub stars](https://img.shields.io/github/stars/HarleysZhang/2019_algorithm_intern_information.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/HarleysZhang/2019_algorithm_intern_information.svg)
+![GitHub stars](https://img.shields.io/github/stars/datawhalechina/pumpkin-book.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/datawhalechina/pumpkin-book.svg)
+
+---
+
+#### Knowledge-Graph
+
+[lihanghang/Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)
+
+深度学习与自然语言处理、知识图谱、对话系统。包括知识获取、知识库构建、知识库应用三大技术研究与应用。
+
+![GitHub stars](https://img.shields.io/github/stars/lihanghang/Knowledge-Graph.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/lihanghang/Knowledge-Graph.svg)
 
 ---
 
