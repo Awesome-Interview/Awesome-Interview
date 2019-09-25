@@ -616,14 +616,14 @@ All Algorithms implemented in Python
 
 ---
 
-#### awesome-algorithm
+#### Interview
 
-[apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
+[apachecn/Interview](https://github.com/apachecn/Interview)
 
-结构化算法刷题训练指南 (希望大家支持一下！) 
+Interview = 简历指南 + LeetCode + Kaggle
 
-![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/apachecn/awesome-algorithm.svg)
+![GitHub stars](https://img.shields.io/github/stars/apachecn/Interview.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/apachecn/Interview.svg)
 
 ---
 
