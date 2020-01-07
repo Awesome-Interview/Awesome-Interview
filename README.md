@@ -327,14 +327,14 @@ How to pass the Node.js interview of ElemeFE.
 
 ## 算法
 
-#### Algorithm_Interview_Notes-Chinese
+#### Algorithm_for_Interview-Chinese
 
-[imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+[imhuay/Algorithm_for_Interview-Chinese](https://github.com/imhuay/Algorithm_for_Interview-Chinese)
 
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
-![GitHub stars](https://img.shields.io/github/stars/imhuay/Algorithm_Interview_Notes-Chinese.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/imhuay/Algorithm_Interview_Notes-Chinese.svg)
+![GitHub stars](https://img.shields.io/github/stars/imhuay/Algorithm_for_Interview-Chinese.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/imhuay/Algorithm_for_Interview-Chinese.svg)
 
 ---
 
@@ -864,8 +864,8 @@ Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningboo
 
 #### Backers
 
-[![Backers](https://opencollective.com/awesome-interview/backers.svg?width=890&button=false)](https://opencollective.com/ali-mehrpour) 
+[![Backers](https://opencollective.com/awesome-interview/backers.svg?width=890&button=false)](https://opencollective.com/awesome-interview#section-contributors) 
 
 #### Sponsors
 
-[![Sponsors](https://opencollective.com/awesome-interview/sponsors.svg?width=890&button=false)](https://opencollective.com/triplebyte)
+[![Sponsors](https://opencollective.com/awesome-interview/sponsors.svg?width=890&button=false)](https://opencollective.com/awesome-interview#section-contributors)
