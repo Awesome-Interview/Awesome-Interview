@@ -163,17 +163,6 @@ Awesome Interviews for Coder, Programming Language, Software Engineering, Web, B
 
 ---
 
-#### Backend-Interview-Guide
-
-[CyC2018/Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide)
-
-💯后端面试进阶指南
-
-![GitHub stars](https://img.shields.io/github/stars/CyC2018/Backend-Interview-Guide.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/CyC2018/Backend-Interview-Guide.svg)
-
----
-
 #### EasyJob
 
 [Lemonjing/EasyJob](https://github.com/Lemonjing/EasyJob)
